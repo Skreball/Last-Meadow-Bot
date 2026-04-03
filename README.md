@@ -11,7 +11,7 @@
 
 | 🔴 État : Action Requise | 🟢 État : Bot Actif |
 | :---: | :---: |
-| <img src="https://i.imgur.com/G4lPjP3.png" width="350"> | <img src="https://github.com/user-attachments/assets/1b7a1bcc-232e-4bc8-b2d4-c37ae1b84e34" width="350"> |
+| <img src="https://github.com/user-attachments/assets/619f16a0-9ce5-43c9-a83f-fad8fa1da193" width="350"> | <img src="https://github.com/user-attachments/assets/1b7a1bcc-232e-4bc8-b2d4-c37ae1b84e34" width="350"> |
 | *Le widget attend votre premier clic.* | *Le bot tourne et récolte pour vous.* |
 
 ---
