@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-3ba55e?style=for-the-badge)
 
 > **The ultimate assistant to automate Last Meadow Online.** Capture your Discord requests, track your loot in real-time, and optimize your gains with a smart, draggable, and discreet overlay.
-
+> **It takes around 45min to 1hr to be LVL MAX (100)**
 ---
 
 ## 📸 Interface Overview
