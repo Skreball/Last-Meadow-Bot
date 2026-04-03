@@ -18,10 +18,8 @@
 
 ## 📥 Comment télécharger et installer ?
 
-L'installation se fait en quelques secondes via le **Mode Développeur** de votre navigateur (Chrome, Brave, Edge).
-
 1.  **Télécharger les fichiers** :
-    *   Clique sur le bouton vert **`Code`** (en haut à droite), puis sur **`Download ZIP`**.
+    *   Clique sur le bouton vert **`Code`**, puis sur **`Download ZIP`**.
     *   Extrais le dossier sur ton bureau.
 2.  **Ouvrir les Extensions** :
     *   Tape `chrome://extensions/` dans ta barre d'adresse.
@@ -29,35 +27,37 @@ L'installation se fait en quelques secondes via le **Mode Développeur** de votr
     *   Bascule l'interrupteur **"Mode développeur"** en haut à droite sur **ON**.
 4.  **Charger le Bot** :
     *   Clique sur **"Charger l'extension décompressée"**.
-    *   Sélectionne le dossier que tu viens d'extraire (celui qui contient `manifest.json`).
+    *   Sélectionne le dossier extrait (celui qui contient `manifest.json`).
 5.  **Épingler** :
-    *   Clique sur l'icône "Puzzle" 🧩 et épingle **NEXTERA BOT** pour un accès rapide.
+    *   Clique sur l'icône "Puzzle" 🧩 et épingle **NEXTERA BOT**.
 
 ---
 
 ## 🚀 Action à réaliser pour que ça marche
 
-Le bot a besoin de "sniffer" une action réelle pour apprendre à la reproduire. **Sans cette étape, le widget restera rouge.**
+Le bot a besoin de "sniffer" l'action pour apprendre à la reproduire. **Sans cette étape, le widget restera rouge.**
 
 1.  **Ouvre Discord** sur ton navigateur et va sur le salon de **Last Meadow Online**.
-2.  **L'Action "Mère" (Indispensable)** :
-    *   Lance une récolte normalement (clique sur le bouton **Start** du jeu).
-    *   Attends la fin du timer.
-    *   Clique sur le bouton de validation (**Complete** ou **Finish**).
-3.  **C'est prêt !** : 
-    *   Dès que tu as validé, le widget passe au **VERT** 🟢.
-    *   Le bot prend le relais et répète le cycle à l'infini.
-    *   **Info :** Tu peux maintenant changer d'onglet ou regarder une vidéo, le bot continue en fond.
+2.  **Lancer l'activité** : Clique en haut à droite de Discord sur l'icône de la **feuille verte**.
+    *   <img src="METS_ICI_TON_LIEN_GITHUB_PHOTO_FEUILLE" width="300">
+3.  **L'Action "Mère" (Indispensable)** : 
+    *   Appuie pour commencer l'aventure.
+    *   **Bourrine le bouton "Aventure"** jusqu'à remplir la barre **1 fois** complètement.
+    *   <img src="METS_ICI_TON_LIEN_GITHUB_PHOTO_BOUTON_AVENTURE" width="300">
+4.  **C'est prêt !** : 
+    *   Dès que la barre est remplie une fois, le widget passe au **VERT** 🟢.
+    *   Le bot s'occupe du reste tout seul. 
+    *   **Info :** Tu peux aller faire autre chose ! Il faut juste **garder le navigateur ouvert** (tu n'as pas besoin de rester sur l'onglet Discord).
 
 ---
 
 ## 💡 Infos utiles & Astuces
 
-*   **🕹️ Déplacement libre** : Clique sur le bandeau bleu `NEXTERA BOT` pour **glisser l'overlay** où tu veux sur ta page.
-*   **📉 Mode Compact** : Utilise le bouton **[-]** en haut à droite du widget pour le réduire. Clique sur **[+]** pour revoir tes stats.
-*   **🌍 Multi-sites** : Via la petite icône de l'extension (en haut du navigateur), tu peux choisir d'afficher le widget sur tous les sites ou **uniquement sur Discord**.
-*   **🚫 Cacher le Widget** : Tu peux masquer complètement l'overlay via le bouton **"HIDE WIDGET"** dans la pop-up sans arrêter le bot.
-*   **⚠️ Sécurité (Rate Limit)** : Si le widget devient **JAUNE**, c'est que Discord sature. Le bot fait une pause de 5s par sécurité et reprend tout seul.
+*   **🕹️ Déplacement libre** : Clique sur le bandeau bleu `NEXTERA BOT` pour glisser l'overlay où tu veux.
+*   **📉 Mode Compact** : Utilise le bouton **[-]** pour réduire le widget. Clique sur **[+]** pour revoir tes stats.
+*   **🌍 Multi-sites** : Via la popup, choisis d'afficher le widget partout ou uniquement sur Discord.
+*   **🚫 Cacher le Widget** : Tu peux masquer l'overlay via le bouton **"HIDE WIDGET"** dans la popup sans arrêter le bot.
+*   **⚠️ Sécurité** : Si le widget devient **JAUNE**, le bot fait une pause de 5s pour éviter le "Rate Limit" de Discord.
 
 ---
 
