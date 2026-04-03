@@ -22,7 +22,7 @@
     *   Clique sur le bouton vert **`Code`**, puis sur **`Download ZIP`**.
     *   Extrais le dossier sur ton bureau.
 2.  **Ouvrir les Extensions** :
-    *   Tape `chrome://extensions/` dans ta barre d'adresse.
+    *   Va dans les paramètres de ton navigateur et cherche "Extensions"
 3.  **Activer le Mode Développeur** :
     *   Bascule l'interrupteur **"Mode développeur"** en haut à droite sur **ON**.
 4.  **Charger le Bot** :
