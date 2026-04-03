@@ -39,7 +39,7 @@ Le bot a besoin de "sniffer" l'action pour apprendre à la reproduire. **Sans ce
 
 1.  **Ouvre Discord** sur ton navigateur et va sur le salon de **Last Meadow Online**.
 2.  **Lancer l'activité** : Clique en haut à droite de Discord sur l'icône de la **feuille verte**.
-    *   <img src="METS_ICI_TON_LIEN_GITHUB_PHOTO_FEUILLE" width="300">
+    *   <img src="https://github.com/user-attachments/assets/dd849599-a93e-491f-a813-a1b0920364db" width="300">
 3.  **L'Action "Mère" (Indispensable)** : 
     *   Appuie pour commencer l'aventure.
     *   **Bourrine le bouton "Aventure"** jusqu'à remplir la barre **1 fois** complètement.
