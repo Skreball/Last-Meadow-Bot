@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body { width: 240px; font-family: 'Segoe UI', Tahoma, sans-serif; background: #36393f; color: white; padding: 15px; margin: 0; }
+    .header { color: #5865F2; font-weight: bold; font-size: 1.1em; margin-bottom: 12px; display: flex; justify-content: space-between; align-items: center; }
+    #status-dot { font-size: 14px; transition: color 0.3s; }
+    
+    .stats-box { background: #2f3136; padding: 10px; border-radius: 6px; margin-bottom: 15px; font-size: 0.9em; border: 1px solid #4f545c; }
+    .stat-line { margin-bottom: 4px; display: flex; justify-content: space-between; }
+    .stat-val { font-weight: bold; color: #ffffff; }
+    
+    .loot-container { max-height: 110px; overflow-y: auto; margin-top: 10px; font-size: 0.8em; border-top: 1px solid #4f545c; padding-top: 8px; }
+    .loot-item { display: flex; justify-content: space-between; margin-bottom: 2px; border-bottom: 1px solid #36393f; }
+    
+    .option-section { border-top: 1px solid #4f545c; padding-top: 12px; }
+    label { display: block; margin-bottom: 6px; font-size: 0.85em; color: #b9bbbe; }
+    
+    select { background: #202225; color: white; border: 1px solid #5865F2; padding: 6px; width: 100%; border-radius: 4px; outline: none; margin-bottom: 10px; cursor: pointer; }
+    
+    .btn-toggle { background: #5865F2; color: white; border: none; padding: 8px; width: 100%; border-radius: 4px; font-weight: bold; cursor: pointer; transition: background 0.2s; }
+    .btn-toggle:hover { background: #4752c4; }
+    .btn-toggle.off { background: #f04747; }
+    .btn-toggle.off:hover { background: #d83c3e; }
+    
+    .footer { margin-top: 15px; font-size: 0.75em; text-align: center; color: #72767d; }
+    .footer a { color: #5865F2; text-decoration: none; font-weight: bold; }
+    .footer a:hover { text-decoration: underline; }
+
+    /* Custom Scrollbar */
+    ::-webkit-scrollbar { width: 4px; }
+    ::-webkit-scrollbar-thumb { background: #202225; border-radius: 10px; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <span>NEXTERA CONTROL</span>
+    <span id="status-dot">●</span>
+  </div>
+
+  <div class="stats-box">
+    <div class="stat-line">Level: <span id="pop-lvl" class="stat-val">-</span></div>
+    <div class="stat-line">Total XP: <span id="pop-xp" class="stat-val">-</span></div>
+    <div id="pop-loot" class="loot-container">
+      <div style="text-align:center; color:#72767d; font-style:italic;">No loot recorded.</div>
+    </div>
+  </div>
+
+  <div class="option-section">
+    <label>Injection Mode:</label>
+    <select id="injectMode">
+      <option value="discord">Discord Only</option>
+      <option value="everywhere">Everywhere</option>
+    </select>
+    
+    <button id="toggleWidget" class="btn-toggle">HIDE WIDGET</button>
+  </div>
+
+  <div class="footer">
+    Made by <a href="https://github.com/Skreball" target="_blank">NEXTERA</a>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
