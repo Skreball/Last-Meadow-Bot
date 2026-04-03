@@ -48,7 +48,7 @@ L'extension utilise le **"Sniffing"** : elle doit voir passer une action réelle
 
 | Widget (En attente) | Widget (Actif) | Dashboard (Popup) |
 | :---: | :---: | :---: |
-| ![Action Requise](https://via.placeholder.com/180x120?text=ROUGE+-+Attente) | ![Bot OK](https://via.placeholder.com/180x120?text=VERT+-+Actif) | ![Stats Popup](https://via.placeholder.com/180x120?text=Dashboard+Stats) |
+| ![Action Requise](https://imgur.com/a/LDKiITM) | ![Bot OK](https://imgur.com/a/p8HxIQU) |
 
 ---
 
