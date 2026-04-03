@@ -21,7 +21,8 @@
 Installation takes only a few seconds via your browser's **Developer Mode** (Chrome, Brave, Edge).
 
 1.  **Download the files**:
-    *   Click the green **`Code`** button (top right), then click **`Download ZIP`**.
+    *   Go to **`releases`** button (Middle right), then Download the zip **`corresponding`** to your version .
+    *   If you're on firefox you don't have to extract the folder so skip to step 2. If not keep following.
     *   Extract the folder to your desktop.
 2.  **Open Extensions**:
     *   Go to your browser settings and look for "Extensions" (or type `chrome://extensions/` in your address bar).
