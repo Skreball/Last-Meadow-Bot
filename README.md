@@ -43,7 +43,7 @@ Le bot a besoin de "sniffer" l'action pour apprendre à la reproduire. **Sans ce
 3.  **L'Action "Mère" (Indispensable)** : 
     *   Appuie pour commencer l'aventure.
     *   **Bourrine le bouton "Aventure"** jusqu'à remplir la barre **1 fois** complètement.
-    *   <img src="METS_ICI_TON_LIEN_GITHUB_PHOTO_BOUTON_AVENTURE" width="300">
+    *   <img src="https://github.com/user-attachments/assets/7b19b192-03bd-42a0-aca1-6105f0861c06" width="300">
 4.  **C'est prêt !** : 
     *   Dès que la barre est remplie une fois, le widget passe au **VERT** 🟢.
     *   Le bot s'occupe du reste tout seul. 
